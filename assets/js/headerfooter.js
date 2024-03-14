@@ -202,7 +202,7 @@ class Header extends HTMLElement {
                   <span class="badge bg-warning rounded-pill">Coming Soon</span>
                 </div>
               </div></a>
-              <a href="../blog/"><div class="card card-body">Blog</div></a>
+              <a href="https://www.dialogika.co/blog"><div class="card card-body">Blog</div></a>
             </div>
           </div>
         </div>
