@@ -318,6 +318,10 @@ h6 {
   #hero {
     padding: 100px 0 20px 0;
   }
+
+  #hero .hero-info span {
+    padding: 0px 15px 0px 15px;
+  }
 }
 
 #hero .hero-img {
