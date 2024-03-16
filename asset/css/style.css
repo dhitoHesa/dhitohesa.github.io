@@ -1322,20 +1322,6 @@ section {
   width: 65%;
 }
 
-#footer .footer-top .footer-newsletter input[type=submit] {
-  background: #007bff;
-  border: 0;
-  width: 35%;
-  padding: 6px 0;
-  text-align: center;
-  color: #fff;
-  transition: 0.3s;
-  cursor: pointer;
-}
-
-#footer .footer-top .footer-newsletter input[type=submit]:hover {
-  background: #0062cc;
-}
 
 #footer .copyright {
   text-align: center;
