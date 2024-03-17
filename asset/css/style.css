@@ -556,18 +556,18 @@ section {
   justify-content: center;
   align-items: center;
   border-radius: 50%;
-  border: 2px solid #007bff;
+  border: 2px solid #0B2B6A;
   transition: all 0.3s ease-in-out;
 }
 
 #about .about-container .icon-box .icon i {
-  color: #007bff;
+  color: #0B2B6A;
   font-size: 24px;
   line-height: 0;
 }
 
 #about .about-container .icon-box:hover .icon {
-  background: #007bff;
+  background: #0B2B6A;
 }
 
 #about .about-container .icon-box:hover .icon i {
@@ -768,7 +768,7 @@ section {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  background: #007bff;
+  background: #0B2B6A;
   color: #fff;
 }
 
@@ -842,7 +842,7 @@ section {
   line-height: 1;
   width: 36px;
   height: 36px;
-  background: #007bff;
+  background: #0B2B6A;
   border-radius: 50%;
   margin: 10px 4px 0 4px;
 }
